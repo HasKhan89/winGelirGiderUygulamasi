@@ -1,0 +1,10 @@
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\bin\Debug\winGelirGiderUygulamasi.exe.config
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\bin\Debug\winGelirGiderUygulamasi.exe
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\bin\Debug\winGelirGiderUygulamasi.pdb
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.Form1.resources
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.Form2.resources
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.exe
+C:\Users\HasKhan\Desktop\winGelirGiderUygulamasi\winGelirGiderUygulamasi\obj\Debug\winGelirGiderUygulamasi.pdb
